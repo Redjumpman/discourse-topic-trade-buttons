@@ -2,7 +2,7 @@ en:
   site_settings:
     topic_trade_buttons_enabled: "Topic trading buttons enabled?"
   topic_trading:
-    sold: Sold
-    purchased: Purchased
-    exchanged: Exchanged
+    sold: Paid
+    purchased: Freebie
+    exchanged: Hired
     cancelled: Cancelled
